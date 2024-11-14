@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/hotel-ui-react/static/js/main.811a75d0.js",
+    "main.js": "/hotel-ui-react/static/js/main.afca905f.js",
     "index.html": "/hotel-ui-react/index.html",
-    "main.811a75d0.js.map": "/hotel-ui-react/static/js/main.811a75d0.js.map"
+    "main.afca905f.js.map": "/hotel-ui-react/static/js/main.afca905f.js.map"
   },
   "entrypoints": [
-    "static/js/main.811a75d0.js"
+    "static/js/main.afca905f.js"
   ]
 }
